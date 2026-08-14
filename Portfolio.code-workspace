@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio"
+		},
+		{
+			"name": "mutual-funds-personal",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
